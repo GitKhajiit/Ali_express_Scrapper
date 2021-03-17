@@ -1,0 +1,27 @@
+
+{
+    'ok': True,
+    'result': [{
+        'update_id': 28062694,
+        'message': {
+            'message_id': 243,
+            'from': {
+                    'id': 407053127,
+                    'is_bot': False,
+                    'first_name': 'Виктор',
+                    'last_name': 'Арутюнов',
+                    'username': 'victor_arutiunov',
+                    'language_code': 'en'
+                },
+            'chat': {
+                    'id': 407053127,
+                    'first_name': 'Виктор',
+                    'last_name': 'Арутюнов',
+                    'username': 'victor_arutiunov',
+                    'type': 'private'
+            },
+            'date': 1613478037,
+            'text': 'hi'
+        }
+    }]
+}
